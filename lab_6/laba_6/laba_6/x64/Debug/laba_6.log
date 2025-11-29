@@ -1,0 +1,3 @@
+﻿  laba_6.cpp
+C:\Users\user\work_space\Laboratory_work\asd\lab_6\laba_6\laba_6\laba_6.cpp(165,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  laba_6.vcxproj -> C:\Users\user\work_space\Laboratory_work\asd\lab_6\laba_6\x64\Debug\laba_6.exe
