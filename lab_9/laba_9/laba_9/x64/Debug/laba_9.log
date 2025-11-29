@@ -1,0 +1,7 @@
+﻿  laba_9.cpp
+C:\Users\user\work_space\Laboratory_work\ASD_3SEM\lab_9\laba_9\laba_9\laba_9.cpp(40,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\work_space\Laboratory_work\ASD_3SEM\lab_9\laba_9\laba_9\laba_9.cpp(82,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\work_space\Laboratory_work\ASD_3SEM\lab_9\laba_9\laba_9\laba_9.cpp(166,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\work_space\Laboratory_work\ASD_3SEM\lab_9\laba_9\laba_9\laba_9.cpp(167,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\work_space\Laboratory_work\ASD_3SEM\lab_9\laba_9\laba_9\laba_9.cpp(182,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  laba_9.vcxproj -> C:\Users\user\work_space\Laboratory_work\ASD_3SEM\lab_9\laba_9\x64\Debug\laba_9.exe

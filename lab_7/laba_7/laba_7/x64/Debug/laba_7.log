@@ -1,0 +1,4 @@
+﻿  laba_7.cpp
+C:\Users\user\work_space\Laboratory_work\asd\lab_7\laba_7\laba_7\laba_7.cpp(20,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\work_space\Laboratory_work\asd\lab_7\laba_7\laba_7\laba_7.cpp(142,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  laba_7.vcxproj -> C:\Users\user\work_space\Laboratory_work\asd\lab_7\laba_7\x64\Debug\laba_7.exe
